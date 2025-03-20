@@ -7,3 +7,6 @@ For the class HAI-5014.
 aashdk
 
 ## Third
+
+***dfgfd***
+![alt test](.img/example_img.png)
