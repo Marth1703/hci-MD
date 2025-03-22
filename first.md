@@ -10,4 +10,4 @@ aashdk
 
 ***dfgfd***
 ![alt test](img/example_img.png)
-[Link to GPT](https://chatgpt.com/)
+
