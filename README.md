@@ -1,6 +1,13 @@
+![AI Header](img/ai.webp)
+
 # Good and Bad Chatbots
 
-This should serve as an overview of what I perceive as good and bad chatbots.
+## Table of Contents
+
+- [A Quick Overview](#a-quick-overview)
+- [ChatGPT](#chatgpt)
+- [Colossal Cave Adventure](#colossal-cave-adventure)
+- [Resources](#resources)
 
 ## A Quick Overview
 
@@ -49,3 +56,10 @@ Colossal Cave Adventure was one of the first computer games ever, just leveragin
 Here is an 11-year-old playthrough of the game:
 
 [![Watch the video](https://i.ytimg.com/vi/O3etkSoHrR8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDilOEi9zNV8fcCiBqrLItc9RkGTw)](https://www.youtube.com/watch?v=O3etkSoHrR8&)
+
+## Resources
+
+- [ChatGPT](https://chatgpt.com)
+- [Example of the German version of ChatGPT](img/gpt_german.png)
+- [11-year-old playthrough of Colossal Cave Adventure](https://www.youtube.com/watch?v=O3etkSoHrR8&)
+- [Thumbnail source for Colossal Cave Adventure video](https://i.ytimg.com/vi/O3etkSoHrR8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDilOEi9zNV8fcCiBqrLItc9RkGTw)
