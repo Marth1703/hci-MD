@@ -11,8 +11,6 @@
 
 ## A Quick Overview
 
-I wanted to add two separate tables next to each other; apparently, that only works with inline HTML 😅.
-
 <table>
   <tr>
       <td>
@@ -45,7 +43,7 @@ In the following section, explanations of **two** examples will follow:
 
 Here is an example of the German version:
 
-![gpt_german](img/gpt_german.png)
+![A screenshot of the German Chat-GPT UI](img/gpt_german.png)
 
 ## Colossal Cave Adventure
 
