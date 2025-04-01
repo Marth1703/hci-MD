@@ -57,9 +57,11 @@ Here is an 11-year-old playthrough of the game:
 
 [![Watch the video](https://i.ytimg.com/vi/O3etkSoHrR8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDilOEi9zNV8fcCiBqrLItc9RkGTw)](https://www.youtube.com/watch?v=O3etkSoHrR8&)
 
+Since the chat interaction is predefined and only accepts a limited number of inputs, I argue this "chatbot" is bad because of this limitation (despite it being a great innovation for the time it was released).
+
 ## Resources
 
 - [ChatGPT](https://chatgpt.com)
-- [Example of the German version of ChatGPT](img/gpt_german.png)
+- [Example of the German version of ChatGPT](https://github.com/Marth1703/hci-MD/raw/main/img/gpt_german.png)
 - [11-year-old playthrough of Colossal Cave Adventure](https://www.youtube.com/watch?v=O3etkSoHrR8&)
 - [Thumbnail source for Colossal Cave Adventure video](https://i.ytimg.com/vi/O3etkSoHrR8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDilOEi9zNV8fcCiBqrLItc9RkGTw)
